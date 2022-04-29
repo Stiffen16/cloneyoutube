@@ -34,9 +34,9 @@ img {
     height: 100vh;
     background-color: rgb(17, 16, 16);
 
-    padding: 20px;
     overflow-y: scroll;
     overflow-x: hidden;
+    padding: 10px;
 }
 
 .judul {
