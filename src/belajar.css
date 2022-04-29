@@ -35,7 +35,8 @@ img {
     background-color: rgb(17, 16, 16);
 
     padding: 20px;
-    overflow: scroll;
+    overflow-y: scroll;
+    overflow-x: hidden;
 }
 
 .judul {
